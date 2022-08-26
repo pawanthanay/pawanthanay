@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Python Automation at Qualcomm(Temp)
-- 🌱 I’m currently learning Full Stack Javascript Web Developer
+- 🌱 I’m currently learning Full Stack Javascript Web Developement
 - 👯 I’m looking to collaborate on finding new ways to web developement
 - 📫 How to reach me: 
   via gmail: npawanthanay@gmail.com
